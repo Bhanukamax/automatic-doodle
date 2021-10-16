@@ -1,0 +1,796 @@
+[
+  {
+    "name": "Möbel",
+    "articleCount": 71841,
+    "childrenCategories": [
+      {
+        "name": "Wohnzimmer",
+        "urlPath": "kategorie/wohnzimmermoebel/"
+      },
+      {
+        "name": "Schlafzimmer",
+        "urlPath": "kategorie/schlafzimmermoebel/"
+      },
+      {
+        "name": "Esszimmer",
+        "urlPath": "kategorie/esszimmermoebel/"
+      },
+      {
+        "name": "Büro",
+        "urlPath": "kategorie/bueromoebel/"
+      },
+      {
+        "name": "Badmöbel",
+        "urlPath": "kategorie/badezimmermoebel/"
+      },
+      {
+        "name": "Flurmöbel & Dielenmöbel",
+        "urlPath": "kategorie/flur-und-diele/"
+      },
+      {
+        "name": "Küche & Bar",
+        "urlPath": "kategorie/kuechenmoebel/"
+      },
+      {
+        "name": "Kinderzimmer",
+        "urlPath": "kategorie/kinderzimmermoebel/"
+      }
+    ],
+    "categoryArticles": {
+      "articles": [
+        {
+          "name": "Boxspringbett Kinx",
+          "variantName": "Stoff KINX: Grau - 180 x 200cm - 130 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 164999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000062031-210726-10044100341-IMAGE-P000000001000062031.webp"
+            }
+          ]
+        },
+        {
+          "name": "Schlafsofa Latina",
+          "variantName": "Stoff Doran: Grau - Breite: 170 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 54999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/c/schlafsofa-latina-webstoff-grau-170-cm-4047264.webp"
+            }
+          ]
+        },
+        {
+          "name": "Schwebetürenschrank SKØP VI",
+          "variantName": "Kristallspiegel / Alpinweiß - Höhe: 222 cm - Breite: 181 cm - 2 - Basic",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 46999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000154708-190201-16312600242-IMAGE-P000000001000154708.webp"
+            }
+          ]
+        },
+        {
+          "name": "Freischwinger Kemmel",
+          "variantName": "Cognac - 4er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 39999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000282522-210813-17260200036-IMAGE-P000000001000282522.webp"
+            }
+          ]
+        },
+        {
+          "name": "Boxspringbett Kinx",
+          "variantName": "Stoff KINX: Beige - 180 x 200cm - 130 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 164999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000062037-180717-08055055-IMAGE-P000000001000062037.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sessel Raich",
+          "variantName": "Webstoff",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 36999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000179421-200211-10392100011-IMAGE-P000000001000179421.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Hudson I",
+          "variantName": "Stoff Saia: Beige - Breite: 263 cm - Longchair davorstehend rechts",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 154999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000009771-201102-08125600129-IMAGE-P000000001000009771.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Westwell (mit Schlaffunktion)",
+          "variantName": "Microfaser Bobil: Dunkelgrau",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 84999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000021718-210913-16352500043-IMAGE-P000000001000021718.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Summer III",
+          "variantName": "Microfaser - Vintage Braun - Longchair davorstehend links - Bettkasten - Schlaffunktion",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 87999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000198230-200330-16425500017-IMAGE-P000000001000198230.webp"
+            }
+          ]
+        },
+        {
+          "name": "Armlehnenstuhl Nicholas",
+          "variantName": "Webstoff Cors: Granit - 2er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 23999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000281828-210820-14075400041-IMAGE-P000000001000281828.webp"
+            }
+          ]
+        },
+        {
+          "name": "Relaxsessel Casey",
+          "variantName": "Echtleder/Kunstleder -  Creme",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 94999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000005892-210708-12421000001-IMAGE-P000000001000005892.webp"
+            }
+          ]
+        },
+        {
+          "name": "Massivholzbett AresWOOD II",
+          "variantName": "140 x 200cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 28999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/m/a/massivholzbett-sonawood-wildeiche-massiv-geoelt-140-x-200cm-1034870.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sofa Hudson II (3-Sitzer) Webstoff",
+          "variantName": "Stoff Saia: Hellgrau",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 99999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000009285-201102-08115600102-IMAGE-P000000001000009285.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Sola Flachgewebe",
+          "variantName": "Grau - Longchair davorstehend rechts - Mit Schlaffunktion",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 81999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000054984-200710-14431400049-IMAGE-P000000001000054984.webp"
+            }
+
+          ]
+        },
+        {
+          "name": "Ecksofa Ellens III",
+          "variantName": "Samt - Longchair davorstehend links",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 89999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000183795-191122-10103700025-IMAGE-P000000001000183795.webp"
+            }
+          ]
+        },
+        {
+          "name": "Armlehnenstuhl Tilanda",
+          "variantName": "Webstoff Cors: Mintgrau - 2er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 29999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000281930-210820-14105700079-IMAGE-P000000001000281930.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sofa Fort Dodge (3-Sitzer)",
+          "variantName": "Antiklederlook - Microfaser Yaka: Cognac",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 79999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/o/sofa-fort-dodge-3-sitzer-antiklederlook-cognac-4669724.webp"
+            }
+          ]
+        },
+        {
+          "name": "Lattenrost Premium 42 Fix",
+          "variantName": "140 x 200cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 22999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000022710-200211-14470100002-IMAGE-P000000001000022710.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sofa Hudson (2-Sitzer) Webstoff",
+          "variantName": "Stoff Saia: Hellgrau",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 89999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000009124-201102-08105300074-IMAGE-P000000001000009124.webp"
+            }
+          ]
+        },
+        {
+          "name": "Armlehnenstuhl Nicholas",
+          "variantName": "Webstoff Cors: Dunkelgrau - 2er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 23999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000281824-210820-14072300037-IMAGE-P000000001000281824.webp"
+            }
+          ]
+        },
+        {
+          "name": "Schwebetürenschrank Quadra (Spiegel)",
+          "variantName": "Höhe: 230 cm - Breite: 315 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 74999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/c/schwebetuerenschrank-quadra-spiegel-alpinweiss-glas-weiss-breite-x-hoehe-315-x-230-cm-1896854.webp"
+            }
+          ]
+        },
+        {
+          "name": "Boxspringbett Kinx",
+          "variantName": "Stoff KINX: Weiß - 180 x 200cm - 130 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 164999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000062032-210726-10044100340-IMAGE-P000000001000062032.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sideboard Finsby",
+          "variantName": "Eiche",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 64999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000150713-190904-11340700009-IMAGE-P000000001000150713.webp"
+            }
+          ]
+        },
+        {
+          "name": "Wohnlandschaft San Benito",
+          "variantName": "Microfaser Ranu: Steingrau - Longchair davorstehend links / Ottomane rechts",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 154999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000127680-180820-132105794-IMAGE-P000000001000127680.webp"
+            }
+          ]
+        },
+        {
+          "name": "Wohnlandschaft Summer III",
+          "variantName": "Microfaser - Vintage Braun - Ottomane davorstehend links - Bettkasten - Schlaffunktion für dauerhafte Nutzung",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 109999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000198255-200330-16485200093-IMAGE-P000000001000198255.webp"
+            }
+          ]
+        },
+        {
+          "name": "Drehtürenschrank Gjora",
+          "variantName": "",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 46999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000181751-200922-08205800001-IMAGE-P000000001000181751.webp"
+            }
+          ]
+        },
+        {
+          "name": "Bigsofa Naomi IV",
+          "variantName": "Vintage Cognac",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 99999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000113432-210721-06415100023-IMAGE-P000000001000113432.webp"
+            }
+          ]
+        },
+        {
+          "name": "Armlehnenstuhl Amalis",
+          "variantName": "Webstoff / Eiche massiv - Hellgrau / Eiche",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 14999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000176578-191017-10280400008-IMAGE-P000000001000176578.webp"
+            }
+          ]
+        },
+        {
+          "name": "Sofa Leominster II (2-Sitzer)",
+          "variantName": "Samt Fosca: Dunkelgrau",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 74999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000209058-210108-10045500247-IMAGE-P000000001000209058.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Fort Dodge",
+          "variantName": "Antiklederlook - Microfaser Yaka: Cognac - Longchair davorstehend links - Ohne Schlaffunktion",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 109999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000015484-200925-20194700004-IMAGE-P000000001000015484.webp"
+            }
+          ]
+        },
+        {
+          "name": "Freischwinger Marco (2er-Set)",
+          "variantName": "Echtleder Gyda: Cremeweiß",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 37999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000188905-201021-10352000186-IMAGE-P000000001000188905.webp"
+            }
+          ]
+        },
+        {
+          "name": "TV-Lowboard Nozza II",
+          "variantName": "Echtholzfurnier - Eiche / Schwarz",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 59999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000182822-200318-13582000003-IMAGE-P000000001000182822.webp"
+            }
+          ]
+        },
+        {
+          "name": "Polsterbett Kinx",
+          "variantName": "Stoff KINX: Beige - 180 x 200cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 74999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/p/o/polsterbett-kinx-webstoff-140-x-200cm-beige-5111240.webp"
+            }
+          ]
+        },
+        {
+          "name": "Polsterhocker Hudson VII",
+          "variantName": "Strukturstoff - Stoff Saia: Beige",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 26999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000123835-201113-17410900017-IMAGE-P000000001000123835.webp"
+            }
+          ]
+        },
+        {
+          "name": "Polsterstuhl Aledas II",
+          "variantName": "Webstoff Cors: Granit - 4er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 28999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000282498-210826-06123300002-IMAGE-P000000001000282498.webp"
+            }
+          ]
+        },
+        {
+          "name": "Boxspringbett Moneta",
+          "variantName": "Webstoff - Eiche massiv - Grau - 180 x 200cm - H3",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 149999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000175853-190703-16140700879-IMAGE-P000000001000175853.webp"
+            }
+          ]
+        },
+        {
+          "name": "Polsterstuhl Livaras",
+          "variantName": "Webstoff / Buche massiv - Webstoff Radis: Hellgrau - 4er Set",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 32999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000282528-210819-09463100512-IMAGE-P000000001000282528.webp"
+            }
+          ]
+        },
+        {
+          "name": "90er Schubkasteneinsatz Rauch Pack's",
+          "variantName": "(mit 3 Schubladen) - für Schranktiefen: 57-62 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 10999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/s/c/schubkasteneinsatz-quadra-mit-3-schubkaesten-fuer-schrankbreite-90cm-1411544.webp"
+            }
+          ]
+        },
+        {
+          "name": "Esszimmerstuhl Yoyce II (2er-Set)",
+          "variantName": "Samt / Metall - Gold - Samt Tiru: Beige",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 14999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000178087-190913-11554400016-IMAGE-P000000001000178087.webp"
+            }
+          ]
+        },
+        {
+          "name": "Ecksofa Mundau I",
+          "variantName": "Webstoff - Dunkelgrau - Longchair davorstehend rechts",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 144999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000167246-190329-09291900001-IMAGE-P000000001000167246.webp"
+            }
+          ]
+        },
+        {
+          "name": "Küchenzeile Pattburg I",
+          "variantName": "Ohne Elektrogeräte - Matt Schwarz",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 76999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000243385-210303-10394700001-MOOD-IMAGE-P000000001000243385-mood.webp"
+            }
+          ]
+        },
+        {
+          "name": "TV-Lowboard Manchester II",
+          "variantName": "Akazie massiv / Metall - Akazie / Anthrazit",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 62999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/l/o/lowboard-manchester-ii-akazie-massiv-metall-4882964.webp"
+            }
+          ]
+        },
+        {
+          "name": "Schlafkissen All-Around CoolTouch",
+          "variantName": "Webstoff / Viskose - Weiß",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 17900
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000273449-210611-06545100001-IMAGE-P000000001000273449.webp"
+            }
+          ]
+        },
+        {
+          "name": "Kommode Stewton",
+          "variantName": "Metall - Schwarz",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 29999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000209625-200430-06151600016-IMAGE-P000000001000209625.webp"
+            }
+          ]
+        },
+        {
+          "name": "Boxspringbett Avellino II",
+          "variantName": "Schlamm - 180 x 200cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 129999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/b/o/boxspringbett-avellino-ii-webstoff-180-x-200cm-schlamm-4591452.webp"
+            }
+          ]
+        },
+        {
+          "name": "Armlehnenstuhl Nicholas III",
+          "variantName": "Webstoff Cors: Patchwork: Mehrfarbig",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 13499
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/a/r/armlehnenstuhl-nicholas-iii-webstoff-eiche-massiv-grau-bordeaux-4207628.webp"
+            }
+          ]
+        },
+        {
+          "name": "Kommode Nozza",
+          "variantName": "Echtholzfurnier - Eiche / Schwarz",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 52999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000182823-200214-14501900027-IMAGE-P000000001000182823.webp"
+            }
+          ]
+        },
+        {
+          "name": "Regal Manchester II",
+          "variantName": "Akazie massiv / Metall - Akazie / Anthrazit",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 67999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/r/e/regal-manchester-ii-akazie-massiv-metall-4873112.webp"
+            }
+          ]
+        },
+        {
+          "name": "Drehtürenschrank Nidda",
+          "variantName": "Alpinweiß - Breite: 181 cm",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 37999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000133165-211007-13322400038-IMAGE-P000000001000133165.webp"
+            }
+          ]
+        },
+        {
+          "name": "Drehtürenschrank Woodston",
+          "variantName": "",
+          "prices": {
+            "currency": "EUR",
+            "regular": {
+              "value": 104999
+            }
+          },
+          "images": [
+            {
+              "path": "https://cdn1.home24.net/images/media/catalog/product/200x200/png/-/1/-1000208526-200319-10231400023-IMAGE-P000000001000208526.webp"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
+
